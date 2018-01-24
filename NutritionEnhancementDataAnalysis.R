@@ -4,7 +4,7 @@ install.packages('xlsx', dependencies = TRUE)
 library(xlsx)
 
 ##import/reshape data
-round4<-read.table("** Data file ommitted to protect the lab's research **",header=T)
+round4<-read.table("** Data file omitted to protect the lab's research **",header=T)
 round4$Group <- as.factor(round4$Group)
 
 

@@ -4,8 +4,8 @@ rm(list=ls())
 library(ggplot2)
 
 ##read in the new continuous time file
-gf.tests<-read.table("** Data file ommitted to protect the lab's research **",header=T)
-time<-read.csv("** Data file ommitted to protect the lab's research **",header=T,sep=',')
+gf.tests<-read.table("** Data file omitted to protect the lab's research **",header=T)
+time<-read.csv("** Data file omitted to protect the lab's research **",header=T,sep=',')
 
 
 ##create data frames

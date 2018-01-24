@@ -5,7 +5,7 @@ library(ggplot2)
 library(reshape2)
 
 # import data
-round4<-read.table('/home/dash/Desktop/Research/DNL Research Project/Nutrition & Cognition/NPSummaryDataCNLM.dat',header=T)
+round4<-read.table("** Data file omitted to protect the lab's research **",header=T)
 
 # custom theme for ggplot
 cleanup = theme(panel.grid.major = element_blank(),
