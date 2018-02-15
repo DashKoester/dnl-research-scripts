@@ -1,5 +1,5 @@
 # dnl-research-scripts
-Data Analysis &amp; Visualization scripts written for research projects in the Decision Neuroscience Lab at the Beckman Institute for Advanced Science and Technology.
+<b>Data Analysis &amp; Visualization scripts written for research projects in the Decision Neuroscience Lab at the Beckman Institute for Advanced Science and Technology.</b>
 
 Lab Website: https://www.decisionneurosciencelab.org
 
@@ -8,4 +8,4 @@ I was the only undergraduate researcher working on two separate projects during 
 
 The lab's focus is to investigate the nature of human intelligence through psychology, neuroscience, and computation. The first project I worked on was entitled "Nutritional Enhancement of Cognitive and Physical Performance in Active Duty Air Force Personnel". The second project was more of a personal project for my Post-Doc and I. It was a Cognitive Chronobiology study, researching the effects of time of day and Circadian Rhythms on cognitive abilities.
 
-I have omitted the data files from the import statements in the scripts for confidentiality purposes and to protect the lab's research.
+<i>I have omitted the data files from the import statements in the scripts for confidentiality purposes and to protect the lab's research.</i>
